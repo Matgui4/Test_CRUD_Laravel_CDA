@@ -49,4 +49,4 @@ ______________________________________________________________________________
 Tout est bon ! Il n'y a plus qu'à tester !
 
 Pour gérer les posts il faut être admin, et pour changer son rôle il faut passer sur PHPMyAdmin>blog>users>role, si vous voulez essayer avec un compte que vous avez créé.
-Sinon je vous en met un là pour allé plus vite : mail: isabelle.berger@example.com / mdp: password.
+Sinon je vous en met un là pour aller plus vite : mail: isabelle.berger@example.com / mdp: password.
